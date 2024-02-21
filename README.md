@@ -9,7 +9,7 @@
 3. Right click on your desired directory to download the code.
 4. Choose **git bash** it will open a terminal
 5. In this github repository copy click on the green button called **code** and on the **https** tab copy the link.
-6. On the opened git bash write the following command: `git clone <paste the url here>`
+6. On the opened git bash write the following command: `git clone <paste the url link here>`
 7. Open the folder with your IDE
 
 ## Run
