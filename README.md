@@ -15,3 +15,7 @@
 ## Run
 
 `sbt test`
+
+## Usefull Docs
+
+Scalameta munit [doc](https://scalameta.org/munit/docs/getting-started.html) and assertation [doc](https://scalameta.org/munit/docs/assertions.html).
